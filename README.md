@@ -1,6 +1,6 @@
 # Atividade: Estruturas em TypeScript
 
-Aluno(a): Arthur Leite
+Arthur Leite
 Disciplina: Programação Web
 
 ## Exercícios
